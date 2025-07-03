@@ -1,0 +1,3816 @@
+RID: EBGE4WX301R	
+Job Title: Zotu1828 				
+Program:  
+Database: rRNA_typestrains/16S_ribosomal_RNA 16S ribosomal RNA (Bacteria and Archaea type strains)
+Query #1: Zotu1828 Query ID: lcl|Query_315898 Length: 100
+
+No significant similarity found.
+
+
+
+Query #2: Zotu4765 Query ID: lcl|Query_315899 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanosarcina lacustris strain ZS 16S ribosomal RNA, partial...  Methanosarci... NA              170861     180    180   100%  2e-45 99.00  1381       NR_041876.1      
+Methanosarcina subterranea strain HC-2 16S ribosomal RNA,...      Methanosarci... NA              418010     180    180   100%  2e-45 99.00  1445       NR_134763.1      
+Methanosarcina flavescens strain E03.2 16S ribosomal RNA,...      Methanosarci... NA              1715806    174    174   100%  8e-44 98.00  1409       NR_148758.1      
+Methanosarcina thermophila TM-1 16S ribosomal RNA, partial...     Methanosarci... NA              523844     174    174   100%  8e-44 98.00  1268       NR_118372.1      
+Methanosarcina thermophila TM-1 strain DSM 1825 16S ribosomal...  Methanosarci... NA              523844     171    171   100%  1e-42 97.00  1427       NR_044725.1      
+Methanosarcina soligelidi strain SMA-21 16S ribosomal RNA,...     Methanosarci... NA              1036677    169    169   100%  4e-42 97.00  1337       NR_109423.1      
+Methanosarcina spelaei strain DSM 26047 16S ribosomal RNA,...     Methanosarci... NA              1036679    163    163   100%  2e-40 96.00  1409       NR_148337.1      
+Methanosarcina mazei strain S-6 16S ribosomal RNA, partial...     Methanosarci... NA              2209       163    163   100%  2e-40 96.00  1420       NR_118787.1      
+Methanosarcina barkeri strain MS 16S ribosomal RNA, partial...    Methanosarci... NA              2208       163    163   100%  2e-40 96.00  1268       NR_118371.1      
+Methanosarcina spelaei strain MC-15 16S ribosomal RNA, partial... Methanosarci... NA              1036679    163    163   100%  2e-40 96.00  1346       NR_148336.1      
+
+
+Alignments:
+
+>Methanosarcina lacustris strain ZS 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041876.1 Length: 1381
+Range 1: 469 to 568
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  469  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  528
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  529  TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  568
+
+
+
+
+>Methanosarcina subterranea strain HC-2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_134763.1 Length: 1445
+Range 1: 471 to 570
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  471  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  530
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  531  TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  570
+
+
+
+
+>Methanosarcina flavescens strain E03.2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_148758.1 Length: 1409
+Range 1: 454 to 553
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  454  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  513
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            ||||||||||||||||||||| |||| |||||||||||||
+Sbjct  514  TCAGTCCTCCGGGAAATCTGATGGCTCAACCATTAGGCTT  553
+
+
+
+
+>Methanosarcina thermophila TM-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118372.1 Length: 1268
+Range 1: 388 to 487
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  388  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  447
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            |||||||||||||||||||||||||| |||| ||||||||
+Sbjct  448  TCAGTCCTCCGGGAAATCTGACGGCTCAACCGTTAGGCTT  487
+
+
+
+
+>Methanosarcina thermophila TM-1 strain DSM 1825 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044725.1 Length: 1427
+Range 1: 473 to 572
+
+Score:171 bits(92), Expect:1e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||
+Sbjct  473  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCNGTAGCCGGTTTGG  532
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            |||||||||||||||||||||||||| |||| ||||||||
+Sbjct  533  TCAGTCCTCCGGGAAATCTGACGGCTCAACCGTTAGGCTT  572
+
+
+
+
+>Methanosarcina soligelidi strain SMA-21 16S ribosomal RNA, partial sequence
+Sequence ID: NR_109423.1 Length: 1337
+Range 1: 420 to 519
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  420  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  479
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            |||||||||||||||||||||  ||||||| |||||||||
+Sbjct  480  TCAGTCCTCCGGGAAATCTGATAGCTTAACTATTAGGCTT  519
+
+
+
+
+>Methanosarcina spelaei strain DSM 26047 16S ribosomal RNA, partial sequence
+Sequence ID: NR_148337.1 Length: 1409
+Range 1: 454 to 553
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  454  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  513
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            |||||||||||||||||||||  ||| ||| |||||||||
+Sbjct  514  TCAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTT  553
+
+
+
+
+>Methanosarcina mazei strain S-6 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118787.1 Length: 1420
+Range 1: 470 to 569
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  470  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  529
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            |||||||||||||||||||||  ||| ||| |||||||||
+Sbjct  530  TCAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTT  569
+
+
+
+
+>Methanosarcina barkeri strain MS 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118371.1 Length: 1268
+Range 1: 388 to 487
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  388  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  447
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            |||||||||||||||||||||  ||| ||| |||||||||
+Sbjct  448  TCAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTT  487
+
+
+
+
+>Methanosarcina spelaei strain MC-15 16S ribosomal RNA, partial sequence
+Sequence ID: NR_148336.1 Length: 1346
+Range 1: 423 to 522
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  423  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  482
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCATTAGGCTT  100
+            |||||||||||||||||||||  ||| ||| |||||||||
+Sbjct  483  TCAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTT  522
+
+
+
+
+
+Query #3: Zotu23690 Query ID: lcl|Query_315900 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanosarcina acetivorans strain C2A 16S ribosomal RNA,...       Methanosarci... NA              2214       174    174   100%  8e-44 98.00  1478       NR_074110.1      
+Methanosarcina acetivorans strain DSM 2834 16S ribosomal RNA,...  Methanosarci... NA              2214       174    174   100%  8e-44 98.00  1426       NR_044724.1      
+Methanosarcina vacuolata strain Z-761 16S ribosomal RNA, parti... Methanosarci... NA              2215       174    174   100%  8e-44 98.00  1473       NR_104728.1      
+Methanosarcina spelaei strain DSM 26047 16S ribosomal RNA,...     Methanosarci... NA              1036679    163    163   100%  2e-40 96.00  1409       NR_148337.1      
+Methanosarcina mazei strain S-6 16S ribosomal RNA, partial...     Methanosarci... NA              2209       163    163   100%  2e-40 96.00  1420       NR_118787.1      
+Methanosarcina thermophila TM-1 16S ribosomal RNA, partial...     Methanosarci... NA              523844     163    163   100%  2e-40 96.00  1268       NR_118372.1      
+Methanosarcina barkeri strain MS 16S ribosomal RNA, partial...    Methanosarci... NA              2208       163    163   100%  2e-40 96.00  1268       NR_118371.1      
+Methanosarcina spelaei strain MC-15 16S ribosomal RNA, partial... Methanosarci... NA              1036679    163    163   100%  2e-40 96.00  1346       NR_148336.1      
+Methanosarcina mazei strain DSM 2053, OCM 26 16S ribosomal RNA... Methanosarci... NA              2209       163    163   100%  2e-40 96.00  1333       NR_041956.1      
+Methanosarcina horonobensis HB-1 = JCM 15518 16S ribosomal RNA... Methanosarci... NA              1434110    163    163   100%  2e-40 96.00  1432       NR_112648.1      
+
+
+Alignments:
+
+>Methanosarcina acetivorans strain C2A 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074110.1 Length: 1478
+Range 1: 475 to 574
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  475  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  534
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| ||||||||||||||||||||||||||||||||
+Sbjct  535  CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  574
+
+
+
+
+>Methanosarcina acetivorans strain DSM 2834 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044724.1 Length: 1426
+Range 1: 474 to 573
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  474  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  533
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| ||||||||||||||||||||||||||||||||
+Sbjct  534  CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  573
+
+
+
+
+>Methanosarcina vacuolata strain Z-761 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104728.1 Length: 1473
+Range 1: 470 to 569
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  470  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  529
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| ||||||||||||||||||||||||||||||||
+Sbjct  530  CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  569
+
+
+
+
+>Methanosarcina spelaei strain DSM 26047 16S ribosomal RNA, partial sequence
+Sequence ID: NR_148337.1 Length: 1409
+Range 1: 455 to 554
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  455  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  514
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| |||||||||||| ||||||||| |||||||||
+Sbjct  515  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  554
+
+
+
+
+>Methanosarcina mazei strain S-6 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118787.1 Length: 1420
+Range 1: 471 to 570
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  471  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  530
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| |||||||||||| ||||||||| |||||||||
+Sbjct  531  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  570
+
+
+
+
+>Methanosarcina thermophila TM-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118372.1 Length: 1268
+Range 1: 389 to 488
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  389  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  448
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| ||||||||||||| ||||||| ||||||||||
+Sbjct  449  CAGTCCTCCGGGAAATCTGACGGCTCAACCGTTAGGCTTT  488
+
+
+
+
+>Methanosarcina barkeri strain MS 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118371.1 Length: 1268
+Range 1: 389 to 488
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  389  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  448
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| |||||||||||| ||||||||| |||||||||
+Sbjct  449  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  488
+
+
+
+
+>Methanosarcina spelaei strain MC-15 16S ribosomal RNA, partial sequence
+Sequence ID: NR_148336.1 Length: 1346
+Range 1: 424 to 523
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  424  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  483
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| |||||||||||| ||||||||| |||||||||
+Sbjct  484  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  523
+
+
+
+
+>Methanosarcina mazei strain DSM 2053, OCM 26 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041956.1 Length: 1333
+Range 1: 406 to 505
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  406  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  465
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| |||||||||||| ||||||||| |||||||||
+Sbjct  466  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  505
+
+
+
+
+>Methanosarcina horonobensis HB-1 = JCM 15518 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112648.1 Length: 1432
+Range 1: 470 to 569
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTAATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  470  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  529
+
+Query  61   CAGTCCTTCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||| |||||||||||| ||||||||| |||||||||
+Sbjct  530  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  569
+
+
+
+
+
+Query #4: Zotu2115 Query ID: lcl|Query_315901 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanosarcina lacustris strain ZS 16S ribosomal RNA, partial...  Methanosarci... NA              170861     185    185   100%  4e-47 100.00 1381       NR_041876.1      
+Methanosarcina subterranea strain HC-2 16S ribosomal RNA,...      Methanosarci... NA              418010     185    185   100%  4e-47 100.00 1445       NR_134763.1      
+Methanosarcina thermophila TM-1 16S ribosomal RNA, partial...     Methanosarci... NA              523844     180    180   100%  2e-45 99.00  1268       NR_118372.1      
+Methanosarcina thermophila TM-1 strain DSM 1825 16S ribosomal...  Methanosarci... NA              523844     176    176   100%  2e-44 98.00  1427       NR_044725.1      
+Methanosarcina flavescens strain E03.2 16S ribosomal RNA,...      Methanosarci... NA              1715806    169    169   100%  4e-42 97.00  1409       NR_148758.1      
+Methanosarcina acetivorans strain C2A 16S ribosomal RNA,...       Methanosarci... NA              2214       169    169   100%  4e-42 97.00  1478       NR_074110.1      
+Methanosarcina acetivorans strain DSM 2834 16S ribosomal RNA,...  Methanosarci... NA              2214       169    169   100%  4e-42 97.00  1426       NR_044724.1      
+Methanosarcina vacuolata strain Z-761 16S ribosomal RNA, parti... Methanosarci... NA              2215       169    169   100%  4e-42 97.00  1473       NR_104728.1      
+Methanosarcina soligelidi strain SMA-21 16S ribosomal RNA,...     Methanosarci... NA              1036677    163    163   100%  2e-40 96.00  1337       NR_109423.1      
+Methanosarcina spelaei strain DSM 26047 16S ribosomal RNA,...     Methanosarci... NA              1036679    158    158   100%  8e-39 95.00  1409       NR_148337.1      
+
+
+Alignments:
+
+>Methanosarcina lacustris strain ZS 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041876.1 Length: 1381
+Range 1: 469 to 568
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  469  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  528
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  529  TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  568
+
+
+
+
+>Methanosarcina subterranea strain HC-2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_134763.1 Length: 1445
+Range 1: 471 to 570
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  471  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  530
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  531  TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  570
+
+
+
+
+>Methanosarcina thermophila TM-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118372.1 Length: 1268
+Range 1: 388 to 487
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  388  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  447
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            |||||||||||||||||||||||||| |||||||||||||
+Sbjct  448  TCAGTCCTCCGGGAAATCTGACGGCTCAACCGTTAGGCTT  487
+
+
+
+
+>Methanosarcina thermophila TM-1 strain DSM 1825 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044725.1 Length: 1427
+Range 1: 473 to 572
+
+Score:176 bits(95), Expect:2e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            |||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||
+Sbjct  473  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCNGTAGCCGGTTTGG  532
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            |||||||||||||||||||||||||| |||||||||||||
+Sbjct  533  TCAGTCCTCCGGGAAATCTGACGGCTCAACCGTTAGGCTT  572
+
+
+
+
+>Methanosarcina flavescens strain E03.2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_148758.1 Length: 1409
+Range 1: 454 to 553
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  454  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  513
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            ||||||||||||||||||||| |||| |||| ||||||||
+Sbjct  514  TCAGTCCTCCGGGAAATCTGATGGCTCAACCATTAGGCTT  553
+
+
+
+
+>Methanosarcina acetivorans strain C2A 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074110.1 Length: 1478
+Range 1: 474 to 573
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  474  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  533
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            |||||||||||||||||||||| ||| ||| |||||||||
+Sbjct  534  TCAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTT  573
+
+
+
+
+>Methanosarcina acetivorans strain DSM 2834 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044724.1 Length: 1426
+Range 1: 473 to 572
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  473  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  532
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            |||||||||||||||||||||| ||| ||| |||||||||
+Sbjct  533  TCAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTT  572
+
+
+
+
+>Methanosarcina vacuolata strain Z-761 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104728.1 Length: 1473
+Range 1: 469 to 568
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  469  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  528
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            |||||||||||||||||||||| ||| ||| |||||||||
+Sbjct  529  TCAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTT  568
+
+
+
+
+>Methanosarcina soligelidi strain SMA-21 16S ribosomal RNA, partial sequence
+Sequence ID: NR_109423.1 Length: 1337
+Range 1: 420 to 519
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  420  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  479
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            |||||||||||||||||||||  |||||||  ||||||||
+Sbjct  480  TCAGTCCTCCGGGAAATCTGATAGCTTAACTATTAGGCTT  519
+
+
+
+
+>Methanosarcina spelaei strain DSM 26047 16S ribosomal RNA, partial sequence
+Sequence ID: NR_148337.1 Length: 1409
+Range 1: 454 to 553
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:95/100(95%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  454  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGG  513
+
+Query  61   TCAGTCCTCCGGGAAATCTGACGGCTTAACCGTTAGGCTT  100
+            |||||||||||||||||||||  ||| |||  ||||||||
+Sbjct  514  TCAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTT  553
+
+
+
+
+
+Query #5: Zotu13148 Query ID: lcl|Query_315902 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanosarcina acetivorans strain C2A 16S ribosomal RNA,...       Methanosarci... NA              2214       185    185   100%  4e-47 100.00 1478       NR_074110.1      
+Methanosarcina acetivorans strain DSM 2834 16S ribosomal RNA,...  Methanosarci... NA              2214       185    185   100%  4e-47 100.00 1426       NR_044724.1      
+Methanosarcina vacuolata strain Z-761 16S ribosomal RNA, parti... Methanosarci... NA              2215       185    185   100%  4e-47 100.00 1473       NR_104728.1      
+Methanosarcina spelaei strain DSM 26047 16S ribosomal RNA,...     Methanosarci... NA              1036679    174    174   100%  8e-44 98.00  1409       NR_148337.1      
+Methanosarcina mazei strain S-6 16S ribosomal RNA, partial...     Methanosarci... NA              2209       174    174   100%  8e-44 98.00  1420       NR_118787.1      
+Methanosarcina thermophila TM-1 16S ribosomal RNA, partial...     Methanosarci... NA              523844     174    174   100%  8e-44 98.00  1268       NR_118372.1      
+Methanosarcina barkeri strain MS 16S ribosomal RNA, partial...    Methanosarci... NA              2208       174    174   100%  8e-44 98.00  1268       NR_118371.1      
+Methanosarcina spelaei strain MC-15 16S ribosomal RNA, partial... Methanosarci... NA              1036679    174    174   100%  8e-44 98.00  1346       NR_148336.1      
+Methanosarcina mazei strain DSM 2053, OCM 26 16S ribosomal RNA... Methanosarci... NA              2209       174    174   100%  8e-44 98.00  1333       NR_041956.1      
+Methanosarcina horonobensis HB-1 = JCM 15518 16S ribosomal RNA... Methanosarci... NA              1434110    174    174   100%  8e-44 98.00  1432       NR_112648.1      
+
+
+Alignments:
+
+>Methanosarcina acetivorans strain C2A 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074110.1 Length: 1478
+Range 1: 475 to 574
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  475  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  534
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  535  CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  574
+
+
+
+
+>Methanosarcina acetivorans strain DSM 2834 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044724.1 Length: 1426
+Range 1: 474 to 573
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  474  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  533
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  534  CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  573
+
+
+
+
+>Methanosarcina vacuolata strain Z-761 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104728.1 Length: 1473
+Range 1: 470 to 569
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  470  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  529
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  530  CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  569
+
+
+
+
+>Methanosarcina spelaei strain DSM 26047 16S ribosomal RNA, partial sequence
+Sequence ID: NR_148337.1 Length: 1409
+Range 1: 455 to 554
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  455  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  514
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            |||||||||||||||||||| ||||||||| |||||||||
+Sbjct  515  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  554
+
+
+
+
+>Methanosarcina mazei strain S-6 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118787.1 Length: 1420
+Range 1: 471 to 570
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  471  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  530
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            |||||||||||||||||||| ||||||||| |||||||||
+Sbjct  531  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  570
+
+
+
+
+>Methanosarcina thermophila TM-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118372.1 Length: 1268
+Range 1: 389 to 488
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  448
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            ||||||||||||||||||||| ||||||| ||||||||||
+Sbjct  449  CAGTCCTCCGGGAAATCTGACGGCTCAACCGTTAGGCTTT  488
+
+
+
+
+>Methanosarcina barkeri strain MS 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118371.1 Length: 1268
+Range 1: 389 to 488
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  448
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            |||||||||||||||||||| ||||||||| |||||||||
+Sbjct  449  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  488
+
+
+
+
+>Methanosarcina spelaei strain MC-15 16S ribosomal RNA, partial sequence
+Sequence ID: NR_148336.1 Length: 1346
+Range 1: 424 to 523
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  424  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  483
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            |||||||||||||||||||| ||||||||| |||||||||
+Sbjct  484  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  523
+
+
+
+
+>Methanosarcina mazei strain DSM 2053, OCM 26 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041956.1 Length: 1333
+Range 1: 406 to 505
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  406  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  465
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            |||||||||||||||||||| ||||||||| |||||||||
+Sbjct  466  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  505
+
+
+
+
+>Methanosarcina horonobensis HB-1 = JCM 15518 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112648.1 Length: 1432
+Range 1: 470 to 569
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  470  ACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCCGTAGCCGGTTTGGT  529
+
+Query  61   CAGTCCTCCGGGAAATCTGACAGCTCAACTGTTAGGCTTT  100
+            |||||||||||||||||||| ||||||||| |||||||||
+Sbjct  530  CAGTCCTCCGGGAAATCTGATAGCTCAACTATTAGGCTTT  569
+
+
+
+
+
+Query #6: Zotu3861 Query ID: lcl|Query_315903 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanothrix soehngenii GP6 16S ribosomal RNA, complete sequence  Methanothrix... NA              990316     152    152   100%  4e-37 94.00  1468       NR_102903.1      
+Methanothrix soehngenii strain Opfikon 16S ribosomal RNA,...      Methanothrix... NA              2223       152    152   100%  4e-37 94.00  1472       NR_028242.1      
+Methanothrix soehngenii GP6 16S ribosomal RNA, partial sequence   Methanothrix... NA              990316     152    152   100%  4e-37 94.00  1407       NR_104707.1      
+Methanothrix thermoacetophila PT 16S ribosomal RNA, complete...   Methanothrix... NA              349307     134    134   93%   1e-31 92.47  1473       NR_074214.1      
+Methanothrix thermoacetophila PT 16S ribosomal RNA, partial...    Methanothrix... NA              349307     134    134   93%   1e-31 92.47  1403       NR_028157.1      
+Methanosaeta pelagica strain 03d30q 16S ribosomal RNA, partial... Methanosaeta... NA              1110545    122    122   93%   3e-28 90.32  1383       NR_113571.1      
+Methanothrix harundinacea strain 8Ac 16S ribosomal RNA, partia... Methanothrix... NA              301375     117    117   93%   1e-26 89.25  1350       NR_043203.1      
+Methanosarcina thermophila TM-1 strain DSM 1825 16S ribosomal...  Methanosarci... NA              523844     82.4   82.4  100%  5e-16 81.19  1427       NR_044725.1      
+
+
+Alignments:
+
+>Methanothrix soehngenii GP6 16S ribosomal RNA, complete sequence
+Sequence ID: NR_102903.1 Length: 1468
+Range 1: 465 to 564
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  465  CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  524
+
+Query  61   TAAGTCTCTTGGGAAATCCAGCAGCTCAACTGTTGGGCTT  100
+            ||||||||||| ||||||  |||||| ||||||  |||||
+Sbjct  525  TAAGTCTCTTGAGAAATCTGGCAGCTTAACTGTCAGGCTT  564
+
+
+
+
+>Methanothrix soehngenii strain Opfikon 16S ribosomal RNA, complete sequence
+Sequence ID: NR_028242.1 Length: 1472
+Range 1: 468 to 567
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  468  CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  527
+
+Query  61   TAAGTCTCTTGGGAAATCCAGCAGCTCAACTGTTGGGCTT  100
+            ||||||||||| ||||||  |||||| ||||||  |||||
+Sbjct  528  TAAGTCTCTTGAGAAATCTGGCAGCTTAACTGTCAGGCTT  567
+
+
+
+
+>Methanothrix soehngenii GP6 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104707.1 Length: 1407
+Range 1: 450 to 549
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  450  CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  509
+
+Query  61   TAAGTCTCTTGGGAAATCCAGCAGCTCAACTGTTGGGCTT  100
+            ||||||||||| ||||||  |||||| ||||||  |||||
+Sbjct  510  TAAGTCTCTTGAGAAATCTGGCAGCTTAACTGTCAGGCTT  549
+
+
+
+
+>Methanothrix thermoacetophila PT 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074214.1 Length: 1473
+Range 1: 470 to 562
+
+Score:134 bits(72), Expect:1e-31, 
+Identities:86/93(92%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||  
+Sbjct  470  CACCGGCGGCTCGAGTGGTAACCGCTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGAC  529
+
+Query  61   TAAGTCTCTTGGGAAATCCAGCAGCTCAACTGT  93
+            ||||||||||||||||||  ||| ||||| |||
+Sbjct  530  TAAGTCTCTTGGGAAATCTGGCATCTCAAGTGT  562
+
+
+
+
+>Methanothrix thermoacetophila PT 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028157.1 Length: 1403
+Range 1: 449 to 541
+
+Score:134 bits(72), Expect:1e-31, 
+Identities:86/93(92%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||  
+Sbjct  449  CACCGGCGGCTCGAGTGGTAACCGCTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGAC  508
+
+Query  61   TAAGTCTCTTGGGAAATCCAGCAGCTCAACTGT  93
+            ||||||||||||||||||  ||| ||||| |||
+Sbjct  509  TAAGTCTCTTGGGAAATCTGGCATCTCAAGTGT  541
+
+
+
+
+>Methanosaeta pelagica strain 03d30q 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113571.1 Length: 1383
+Range 1: 450 to 542
+
+Score:122 bits(66), Expect:3e-28, 
+Identities:84/93(90%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||| ||||||||||||| ||||||||||||||||||||||||||||||||   
+Sbjct  450  CACCGGCGGCCCGAGTGGTAACCGCTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCAAG  509
+
+Query  61   TAAGTCTCTTGGGAAATCCAGCAGCTCAACTGT  93
+            |||||| |||||||||||  |||||| ||||||
+Sbjct  510  TAAGTCCCTTGGGAAATCTGGCAGCTTAACTGT  542
+
+
+
+
+>Methanothrix harundinacea strain 8Ac 16S ribosomal RNA, partial sequence
+Sequence ID: NR_043203.1 Length: 1350
+Range 1: 471 to 563
+
+Score:117 bits(63), Expect:1e-26, 
+Identities:83/93(89%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||| ||||||||||||| | ||||||||||||||||||||||||||||||   
+Sbjct  471  CACCGGCGGCCCGAGTGGTAACCGCTTTTATTGGGTCTAAAGGGTCTGTAGCCGGCCAAG  530
+
+Query  61   TAAGTCTCTTGGGAAATCCAGCAGCTCAACTGT  93
+            |||||| |||||||||||  |||||| ||||||
+Sbjct  531  TAAGTCCCTTGGGAAATCTGGCAGCTTAACTGT  563
+
+
+
+
+>Methanosarcina thermophila TM-1 strain DSM 1825 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044725.1 Length: 1427
+Range 1: 473 to 572
+
+Score:82.4 bits(44), Expect:5e-16, 
+Identities:82/101(81%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||| |||||||| | ||| |||||||||||||||||||| ||||||||   | 
+Sbjct  473  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCNGTAGCCGGTTTGG  532
+
+Query  61   TAAGTC-TCTTGGGAAATCCAGCAGCTCAACTGTTGGGCTT  100
+            | |||| ||  ||||||||   | ||||||| ||| |||||
+Sbjct  533  TCAGTCCTCC-GGGAAATCTGACGGCTCAACCGTTAGGCTT  572
+
+
+
+
+
+Query #7: Zotu28066 Query ID: lcl|Query_315904 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanothrix soehngenii GP6 16S ribosomal RNA, complete sequence  Methanothrix... NA              990316     180    180   100%  2e-45 99.00  1468       NR_102903.1      
+Methanothrix soehngenii strain Opfikon 16S ribosomal RNA,...      Methanothrix... NA              2223       180    180   100%  2e-45 99.00  1472       NR_028242.1      
+Methanothrix soehngenii GP6 16S ribosomal RNA, partial sequence   Methanothrix... NA              990316     180    180   100%  2e-45 99.00  1407       NR_104707.1      
+Methanothrix thermoacetophila PT 16S ribosomal RNA, complete...   Methanothrix... NA              349307     150    150   99%   1e-36 93.94  1473       NR_074214.1      
+Methanosaeta pelagica strain 03d30q 16S ribosomal RNA, partial... Methanosaeta... NA              1110545    150    150   99%   1e-36 93.94  1383       NR_113571.1      
+Methanothrix thermoacetophila PT 16S ribosomal RNA, partial...    Methanothrix... NA              349307     150    150   99%   1e-36 93.94  1403       NR_028157.1      
+Methanothrix harundinacea strain 8Ac 16S ribosomal RNA, partia... Methanothrix... NA              301375     145    145   99%   6e-35 92.93  1350       NR_043203.1      
+Methanoculleus thermophilus strain CR-1 16S ribosomal RNA,...     Methanoculle... NA              2200       97.1   97.1  97%   2e-20 84.54  1431       NR_028156.1      
+Methanosarcina thermophila TM-1 strain DSM 1825 16S ribosomal...  Methanosarci... NA              523844     87.9   87.9  100%  1e-17 82.18  1427       NR_044725.1      
+
+
+Alignments:
+
+>Methanothrix soehngenii GP6 16S ribosomal RNA, complete sequence
+Sequence ID: NR_102903.1 Length: 1468
+Range 1: 465 to 564
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  465  CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  524
+
+Query  61   TAAGTCTCTTGGGAAATCTGGCAGCTTAACTGTCAGGCTT  100
+            ||||||||||| ||||||||||||||||||||||||||||
+Sbjct  525  TAAGTCTCTTGAGAAATCTGGCAGCTTAACTGTCAGGCTT  564
+
+
+
+
+>Methanothrix soehngenii strain Opfikon 16S ribosomal RNA, complete sequence
+Sequence ID: NR_028242.1 Length: 1472
+Range 1: 468 to 567
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  468  CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  527
+
+Query  61   TAAGTCTCTTGGGAAATCTGGCAGCTTAACTGTCAGGCTT  100
+            ||||||||||| ||||||||||||||||||||||||||||
+Sbjct  528  TAAGTCTCTTGAGAAATCTGGCAGCTTAACTGTCAGGCTT  567
+
+
+
+
+>Methanothrix soehngenii GP6 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104707.1 Length: 1407
+Range 1: 450 to 549
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  450  CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  509
+
+Query  61   TAAGTCTCTTGGGAAATCTGGCAGCTTAACTGTCAGGCTT  100
+            ||||||||||| ||||||||||||||||||||||||||||
+Sbjct  510  TAAGTCTCTTGAGAAATCTGGCAGCTTAACTGTCAGGCTT  549
+
+
+
+
+>Methanothrix thermoacetophila PT 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074214.1 Length: 1473
+Range 1: 470 to 568
+
+Score:150 bits(81), Expect:1e-36, 
+Identities:93/99(94%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||  
+Sbjct  470  CACCGGCGGCTCGAGTGGTAACCGCTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGAC  529
+
+Query  61   TAAGTCTCTTGGGAAATCTGGCAGCTTAACTGTCAGGCT  99
+            ||||||||||||||||||||||| || || |||||||||
+Sbjct  530  TAAGTCTCTTGGGAAATCTGGCATCTCAAGTGTCAGGCT  568
+
+
+
+
+>Methanosaeta pelagica strain 03d30q 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113571.1 Length: 1383
+Range 1: 450 to 548
+
+Score:150 bits(81), Expect:1e-36, 
+Identities:93/99(94%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||| ||||||||||||| ||||||||||||||||||||||||||||||||   
+Sbjct  450  CACCGGCGGCCCGAGTGGTAACCGCTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCAAG  509
+
+Query  61   TAAGTCTCTTGGGAAATCTGGCAGCTTAACTGTCAGGCT  99
+            |||||| ||||||||||||||||||||||||||||||||
+Sbjct  510  TAAGTCCCTTGGGAAATCTGGCAGCTTAACTGTCAGGCT  548
+
+
+
+
+>Methanothrix thermoacetophila PT 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028157.1 Length: 1403
+Range 1: 449 to 547
+
+Score:150 bits(81), Expect:1e-36, 
+Identities:93/99(94%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||  
+Sbjct  449  CACCGGCGGCTCGAGTGGTAACCGCTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGAC  508
+
+Query  61   TAAGTCTCTTGGGAAATCTGGCAGCTTAACTGTCAGGCT  99
+            ||||||||||||||||||||||| || || |||||||||
+Sbjct  509  TAAGTCTCTTGGGAAATCTGGCATCTCAAGTGTCAGGCT  547
+
+
+
+
+>Methanothrix harundinacea strain 8Ac 16S ribosomal RNA, partial sequence
+Sequence ID: NR_043203.1 Length: 1350
+Range 1: 471 to 569
+
+Score:145 bits(78), Expect:6e-35, 
+Identities:92/99(93%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||| ||||||||||||| | ||||||||||||||||||||||||||||||   
+Sbjct  471  CACCGGCGGCCCGAGTGGTAACCGCTTTTATTGGGTCTAAAGGGTCTGTAGCCGGCCAAG  530
+
+Query  61   TAAGTCTCTTGGGAAATCTGGCAGCTTAACTGTCAGGCT  99
+            |||||| ||||||||||||||||||||||||||||||||
+Sbjct  531  TAAGTCCCTTGGGAAATCTGGCAGCTTAACTGTCAGGCT  569
+
+
+
+
+>Methanoculleus thermophilus strain CR-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028156.1 Length: 1431
+Range 1: 446 to 542
+
+Score:97.1 bits(52), Expect:2e-20, 
+Identities:82/97(85%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  2    ACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGAT  61
+            ||||||||||||||||||  ||  | ||||||||  ||||| ||  ||||| ||   | |
+Sbjct  446  ACCGGCGGCTCGAGTGGTGGCCACTTTTATTGGGCTTAAAGCGTTCGTAGCTGGGTTGTT  505
+
+Query  62   AAGTCTCTTGGGAAATCTGGCAGCTTAACTGTCAGGC  98
+            |||||||||||||||||||||||||||||||||||||
+Sbjct  506  AAGTCTCTTGGGAAATCTGGCAGCTTAACTGTCAGGC  542
+
+
+
+
+>Methanosarcina thermophila TM-1 strain DSM 1825 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044725.1 Length: 1427
+Range 1: 473 to 572
+
+Score:87.9 bits(47), Expect:1e-17, 
+Identities:83/101(82%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    CACCGGCGGCTCGAGTGGTAACCGTTATTATTGGGTCTAAAGGGTCTGTAGCCGGCCGGA  60
+            |||||||||| |||||||| | ||| |||||||||||||||||||| ||||||||   | 
+Sbjct  473  CACCGGCGGCCCGAGTGGTGATCGTGATTATTGGGTCTAAAGGGTCNGTAGCCGGTTTGG  532
+
+Query  61   TAAGTC-TCTTGGGAAATCTGGCAGCTTAACTGTCAGGCTT  100
+            | |||| ||  |||||||||| | ||| ||| || ||||||
+Sbjct  533  TCAGTCCTCC-GGGAAATCTGACGGCTCAACCGTTAGGCTT  572
+
+
+
+
+
+Query #8: Zotu7938 Query ID: lcl|Query_315905 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     185    185   100%  4e-47 100.00 1465       NR_044422.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     185    185   100%  4e-47 100.00 1462       NR_074167.1      
+Methanofollis formosanus strain ML15 16S ribosomal RNA, partia... Methanofolli... NA              299308     158    158   100%  8e-39 95.00  1287       NR_042767.1      
+Methanofollis aquaemaris strain N2F9704 16S ribosomal RNA,...     Methanofolli... NA              126734     152    152   100%  4e-37 94.00  1285       NR_041801.1      
+Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial...    Methanolinea... NA              263906     152    152   100%  4e-37 94.00  1433       NR_028163.1      
+Methanofollis fontis strain FWC-SCC2 16S ribosomal RNA, partia... Methanofolli... NA              2052832    141    141   100%  8e-34 92.00  1397       NR_177364.1      
+Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence     Methanoregul... NA              456442     141    141   100%  8e-34 92.00  1466       NR_074180.1      
+Methanofollis ethanolicus strain HASU 16S ribosomal RNA, parti... Methanofolli... NA              488124     141    141   100%  8e-34 92.00  1396       NR_041669.1      
+Methanolinea mesophila strain TNR 16S ribosomal RNA, partial...   Methanolinea... NA              547055     141    141   100%  8e-34 92.00  1397       NR_112799.1      
+Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal...   Methanofolli... NA              28892      141    141   100%  8e-34 92.00  1430       NR_028254.1      
+
+
+Alignments:
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044422.1 Length: 1465
+Range 1: 463 to 562
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  522
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  523  TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074167.1 Length: 1462
+Range 1: 463 to 562
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  522
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  523  TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanofollis formosanus strain ML15 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042767.1 Length: 1287
+Range 1: 426 to 525
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:95/100(95%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||
+Sbjct  426  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  485
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            |||||||||||||||||||  |||||||||||| ||||||
+Sbjct  486  TAAGTCTCTTGGGAAATCTTCCGGCTTAACCGAAAGGCGT  525
+
+
+
+
+>Methanofollis aquaemaris strain N2F9704 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041801.1 Length: 1285
+Range 1: 332 to 431
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||| ||
+Sbjct  332  TACCGGCGGCTCGAGTGGTGGCCACTATTATTGGGCTTAAAGCGTCCGTAGCTTGGTAGT  391
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            |||||||||||||||||||  |||||||||||  ||||||
+Sbjct  392  TAAGTCTCTTGGGAAATCTTCCGGCTTAACCGGAAGGCGT  431
+
+
+
+
+>Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028163.1 Length: 1433
+Range 1: 464 to 563
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||
+Sbjct  464  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGATTGT  523
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            |||||||||||||||||| | ||||||||||| | |||||
+Sbjct  524  TAAGTCTCTTGGGAAATCCGCCGGCTTAACCGGCGGGCGT  563
+
+
+
+
+>Methanofollis fontis strain FWC-SCC2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_177364.1 Length: 1397
+Range 1: 444 to 543
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| ||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCGCTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTCGT  503
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            ||||||||| |||||||||  ||||| |||||  ||||||
+Sbjct  504  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  543
+
+
+
+
+>Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074180.1 Length: 1466
+Range 1: 463 to 562
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| | ||||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGCTTGT  522
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            ||||||||| |||||||||  |||||||||||  ||||||
+Sbjct  523  TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  562
+
+
+
+
+>Methanofollis ethanolicus strain HASU 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041669.1 Length: 1396
+Range 1: 443 to 542
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||
+Sbjct  443  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  502
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            ||||||||| |||||||||  ||||| |||||  ||||||
+Sbjct  503  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  542
+
+
+
+
+>Methanolinea mesophila strain TNR 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112799.1 Length: 1397
+Range 1: 444 to 543
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTTGT  503
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            |||||||| |||||||||   ||||| ||||||  |||||
+Sbjct  504  TAAGTCTCCTGGGAAATCCACCGGCTCAACCGATGGGCGT  543
+
+
+
+
+>Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028254.1 Length: 1430
+Range 1: 447 to 546
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||
+Sbjct  447  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTCGT  506
+
+Query  61   TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  100
+            |||| |||| |||||||||  ||||| |||||  ||||||
+Sbjct  507  TAAGCCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  546
+
+
+
+
+
+Query #9: Zotu18206 Query ID: lcl|Query_315906 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanoregula formicica strain SMSP 16S ribosomal RNA, complet... Methanoregul... NA              882104     163    163   100%  2e-40 96.00  1469       NR_102441.1      
+Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence     Methanoregul... NA              456442     163    163   100%  2e-40 96.00  1466       NR_074180.1      
+Methanoregula formicica strain SMSP 16S ribosomal RNA, partial... Methanoregul... NA              882104     163    163   100%  2e-40 96.00  1397       NR_112877.1      
+Methanofollis ethanolicus strain HASU 16S ribosomal RNA, parti... Methanofolli... NA              488124     147    147   100%  2e-35 93.00  1396       NR_041669.1      
+Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal...   Methanofolli... NA              28892      147    147   100%  2e-35 93.07  1430       NR_028254.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     141    141   100%  8e-34 92.08  1465       NR_044422.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     141    141   100%  8e-34 92.08  1462       NR_074167.1      
+Methanofollis formosanus strain ML15 16S ribosomal RNA, partia... Methanofolli... NA              299308     141    141   100%  8e-34 92.00  1287       NR_042767.1      
+Methanofollis aquaemaris strain N2F9704 16S ribosomal RNA,...     Methanofolli... NA              126734     141    141   100%  8e-34 92.08  1285       NR_041801.1      
+Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial...    Methanolinea... NA              263906     141    141   100%  8e-34 92.00  1433       NR_028163.1      
+
+
+Alignments:
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, complete sequence
+Sequence ID: NR_102441.1 Length: 1469
+Range 1: 456 to 555
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  456  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  515
+
+Query  61   TAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            ||||||||||||||||||| |||||| |||||| ||||||
+Sbjct  516  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  555
+
+
+
+
+>Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074180.1 Length: 1466
+Range 1: 463 to 562
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGCTTGT  522
+
+Query  61   TAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            ||||||||||||||||||| ||||||||||||| ||||||
+Sbjct  523  TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  562
+
+
+
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112877.1 Length: 1397
+Range 1: 444 to 543
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  503
+
+Query  61   TAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            ||||||||||||||||||| |||||| |||||| ||||||
+Sbjct  504  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  543
+
+
+
+
+>Methanofollis ethanolicus strain HASU 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041669.1 Length: 1396
+Range 1: 443 to 542
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:93/100(93%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||   ||
+Sbjct  443  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  502
+
+Query  61   TAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            ||||||||||||||||||| |||||| |||||| ||||||
+Sbjct  503  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  542
+
+
+
+
+>Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028254.1 Length: 1430
+Range 1: 447 to 546
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:94/101(93%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| |||| |
+Sbjct  447  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTC-G  505
+
+Query  60   TTAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            ||||| |||||||||||||| |||||| |||||| ||||||
+Sbjct  506  TTAAGCCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  546
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044422.1 Length: 1465
+Range 1: 463 to 562
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:93/101(92%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||| ||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGT-TG  521
+
+Query  60   TTAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            |||||||||| |||||||||  |||||||||||  ||||||
+Sbjct  522  TTAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074167.1 Length: 1462
+Range 1: 463 to 562
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:93/101(92%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||| ||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGT-TG  521
+
+Query  60   TTAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            |||||||||| |||||||||  |||||||||||  ||||||
+Sbjct  522  TTAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanofollis formosanus strain ML15 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042767.1 Length: 1287
+Range 1: 426 to 525
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||   ||
+Sbjct  426  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  485
+
+Query  61   TAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            ||||||||| ||||||||| ||||||||||||  ||||||
+Sbjct  486  TAAGTCTCTTGGGAAATCTTCCGGCTTAACCGAAAGGCGT  525
+
+
+
+
+>Methanofollis aquaemaris strain N2F9704 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041801.1 Length: 1285
+Range 1: 332 to 431
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:93/101(92%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            |||||||||||||||||||||||||||||| |||||||||||||| ||||||| |||  |
+Sbjct  332  TACCGGCGGCTCGAGTGGTGGCCACTATTATTGGGCTTAAAGCGTCCGTAGCTTGGTA-G  390
+
+Query  60   TTAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            |||||||||| ||||||||| ||||||||||||| ||||||
+Sbjct  391  TTAAGTCTCTTGGGAAATCTTCCGGCTTAACCGGAAGGCGT  431
+
+
+
+
+>Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028163.1 Length: 1433
+Range 1: 464 to 563
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||  |||
+Sbjct  464  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGATTGT  523
+
+Query  61   TAAGTCTCTGGGGAAATCTACCGGCTTAACCGGTAGGCGT  100
+            ||||||||| ||||||||  |||||||||||||  |||||
+Sbjct  524  TAAGTCTCTTGGGAAATCCGCCGGCTTAACCGGCGGGCGT  563
+
+
+
+
+
+Query #10: Zotu16013 Query ID: lcl|Query_315907 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanoregula formicica strain SMSP 16S ribosomal RNA, complet... Methanoregul... NA              882104     147    147   91%   2e-35 95.60  1469       NR_102441.1      
+Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence     Methanoregul... NA              456442     147    147   91%   2e-35 95.60  1466       NR_074180.1      
+Methanoregula formicica strain SMSP 16S ribosomal RNA, partial... Methanoregul... NA              882104     147    147   91%   2e-35 95.60  1397       NR_112877.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     135    135   100%  4e-32 91.09  1465       NR_044422.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     135    135   100%  4e-32 91.09  1462       NR_074167.1      
+Methanofollis formosanus strain ML15 16S ribosomal RNA, partia... Methanofolli... NA              299308     135    135   100%  4e-32 91.00  1287       NR_042767.1      
+Methanofollis ethanolicus strain HASU 16S ribosomal RNA, parti... Methanofolli... NA              488124     130    130   91%   2e-30 92.31  1396       NR_041669.1      
+Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial...    Methanolinea... NA              263906     130    130   91%   2e-30 92.31  1433       NR_028163.1      
+Methanolinea mesophila strain TNR 16S ribosomal RNA, partial...   Methanolinea... NA              547055     130    130   100%  2e-30 90.00  1397       NR_112799.1      
+Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal...   Methanofolli... NA              28892      130    130   91%   2e-30 92.39  1430       NR_028254.1      
+
+
+Alignments:
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, complete sequence
+Sequence ID: NR_102441.1 Length: 1469
+Range 1: 456 to 546
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:87/91(96%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  456  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  515
+
+Query  61   TAAGTCTCTGGGGAAATCTACTGGCTTAACC  91
+            ||||||||||||||||||| | |||| ||||
+Sbjct  516  TAAGTCTCTGGGGAAATCTTCCGGCTCAACC  546
+
+
+
+
+>Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074180.1 Length: 1466
+Range 1: 463 to 553
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:87/91(96%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGCTTGT  522
+
+Query  61   TAAGTCTCTGGGGAAATCTACTGGCTTAACC  91
+            ||||||||||||||||||| | |||||||||
+Sbjct  523  TAAGTCTCTGGGGAAATCTTCCGGCTTAACC  553
+
+
+
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112877.1 Length: 1397
+Range 1: 444 to 534
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:87/91(96%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  503
+
+Query  61   TAAGTCTCTGGGGAAATCTACTGGCTTAACC  91
+            ||||||||||||||||||| | |||| ||||
+Sbjct  504  TAAGTCTCTGGGGAAATCTTCCGGCTCAACC  534
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044422.1 Length: 1465
+Range 1: 463 to 562
+
+Score:135 bits(73), Expect:4e-32, 
+Identities:92/101(91%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||| ||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGT-TG  521
+
+Query  60   TTAAGTCTCTGGGGAAATCTACTGGCTTAACCAATAGGCGT  100
+            |||||||||| |||||||||   ||||||||| | ||||||
+Sbjct  522  TTAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074167.1 Length: 1462
+Range 1: 463 to 562
+
+Score:135 bits(73), Expect:4e-32, 
+Identities:92/101(91%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||| ||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGT-TG  521
+
+Query  60   TTAAGTCTCTGGGGAAATCTACTGGCTTAACCAATAGGCGT  100
+            |||||||||| |||||||||   ||||||||| | ||||||
+Sbjct  522  TTAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanofollis formosanus strain ML15 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042767.1 Length: 1287
+Range 1: 426 to 525
+
+Score:135 bits(73), Expect:4e-32, 
+Identities:91/100(91%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||   ||
+Sbjct  426  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  485
+
+Query  61   TAAGTCTCTGGGGAAATCTACTGGCTTAACCAATAGGCGT  100
+            ||||||||| ||||||||| | ||||||||| | ||||||
+Sbjct  486  TAAGTCTCTTGGGAAATCTTCCGGCTTAACCGAAAGGCGT  525
+
+
+
+
+>Methanofollis ethanolicus strain HASU 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041669.1 Length: 1396
+Range 1: 443 to 533
+
+Score:130 bits(70), Expect:2e-30, 
+Identities:84/91(92%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||   ||
+Sbjct  443  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  502
+
+Query  61   TAAGTCTCTGGGGAAATCTACTGGCTTAACC  91
+            ||||||||||||||||||| | |||| ||||
+Sbjct  503  TAAGTCTCTGGGGAAATCTTCCGGCTCAACC  533
+
+
+
+
+>Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028163.1 Length: 1433
+Range 1: 464 to 554
+
+Score:130 bits(70), Expect:2e-30, 
+Identities:84/91(92%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||  |||
+Sbjct  464  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGATTGT  523
+
+Query  61   TAAGTCTCTGGGGAAATCTACTGGCTTAACC  91
+            ||||||||| ||||||||  | |||||||||
+Sbjct  524  TAAGTCTCTTGGGAAATCCGCCGGCTTAACC  554
+
+
+
+
+>Methanolinea mesophila strain TNR 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112799.1 Length: 1397
+Range 1: 444 to 543
+
+Score:130 bits(70), Expect:2e-30, 
+Identities:90/100(90%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||  |||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTTGT  503
+
+Query  61   TAAGTCTCTGGGGAAATCTACTGGCTTAACCAATAGGCGT  100
+            ||||||||  |||||||| || |||| |||| || |||||
+Sbjct  504  TAAGTCTCCTGGGAAATCCACCGGCTCAACCGATGGGCGT  543
+
+
+
+
+>Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028254.1 Length: 1430
+Range 1: 447 to 537
+
+Score:130 bits(70), Expect:2e-30, 
+Identities:85/92(92%),  Gaps:2/92(2%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| |||| |
+Sbjct  447  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTC-G  505
+
+Query  60   TTAAGTCTCTGGGGAAATCTACTGGCTTAACC  91
+            ||||| |||||||||||||| | |||| ||||
+Sbjct  506  TTAAGCCTCTGGGGAAATCTTCCGGCTCAACC  537
+
+
+
+
+
+Query #11: Zotu13428 Query ID: lcl|Query_315908 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanoregula formicica strain SMSP 16S ribosomal RNA, complet... Methanoregul... NA              882104     180    180   100%  2e-45 99.00  1469       NR_102441.1      
+Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence     Methanoregul... NA              456442     180    180   100%  2e-45 99.00  1466       NR_074180.1      
+Methanoregula formicica strain SMSP 16S ribosomal RNA, partial... Methanoregul... NA              882104     180    180   100%  2e-45 99.00  1397       NR_112877.1      
+Methanofollis ethanolicus strain HASU 16S ribosomal RNA, parti... Methanofolli... NA              488124     163    163   100%  2e-40 96.00  1396       NR_041669.1      
+Methanofollis formosanus strain ML15 16S ribosomal RNA, partia... Methanofolli... NA              299308     158    158   100%  8e-39 95.00  1287       NR_042767.1      
+Methanofollis fontis strain FWC-SCC2 16S ribosomal RNA, partia... Methanofolli... NA              2052832    152    152   100%  4e-37 94.00  1397       NR_177364.1      
+Methanofollis aquaemaris strain N2F9704 16S ribosomal RNA,...     Methanofolli... NA              126734     152    152   100%  4e-37 94.00  1285       NR_041801.1      
+Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal...   Methanofolli... NA              28892      152    152   100%  4e-37 94.00  1430       NR_028254.1      
+Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial...    Methanolinea... NA              263906     147    147   100%  2e-35 93.00  1433       NR_028163.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     141    141   100%  8e-34 92.00  1465       NR_044422.1      
+
+
+Alignments:
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, complete sequence
+Sequence ID: NR_102441.1 Length: 1469
+Range 1: 456 to 555
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  456  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  515
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            |||||||||||||||||||||||||| |||||||||||||
+Sbjct  516  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  555
+
+
+
+
+>Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074180.1 Length: 1466
+Range 1: 463 to 562
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGCTTGT  522
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  523  TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  562
+
+
+
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112877.1 Length: 1397
+Range 1: 444 to 543
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  503
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            |||||||||||||||||||||||||| |||||||||||||
+Sbjct  504  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  543
+
+
+
+
+>Methanofollis ethanolicus strain HASU 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041669.1 Length: 1396
+Range 1: 443 to 542
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||||| | ||
+Sbjct  443  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  502
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            |||||||||||||||||||||||||| |||||||||||||
+Sbjct  503  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  542
+
+
+
+
+>Methanofollis formosanus strain ML15 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042767.1 Length: 1287
+Range 1: 426 to 525
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:95/100(95%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||||| | ||
+Sbjct  426  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  485
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            ||||||||| |||||||||||||||||||||| |||||||
+Sbjct  486  TAAGTCTCTTGGGAAATCTTCCGGCTTAACCGAAAGGCGT  525
+
+
+
+
+>Methanofollis fontis strain FWC-SCC2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_177364.1 Length: 1397
+Range 1: 444 to 543
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            ||||||||||||||||||||||| ||||||||||||||||||||| ||||||| | | ||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCGCTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTCGT  503
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            |||||||||||||||||||||||||| |||||||||||||
+Sbjct  504  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  543
+
+
+
+
+>Methanofollis aquaemaris strain N2F9704 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041801.1 Length: 1285
+Range 1: 332 to 431
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            |||||||||||||||||||||||||||||| |||||||||||||| ||||||| | | ||
+Sbjct  332  TACCGGCGGCTCGAGTGGTGGCCACTATTATTGGGCTTAAAGCGTCCGTAGCTTGGTAGT  391
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            ||||||||| ||||||||||||||||||||||||||||||
+Sbjct  392  TAAGTCTCTTGGGAAATCTTCCGGCTTAACCGGAAGGCGT  431
+
+
+
+
+>Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028254.1 Length: 1430
+Range 1: 447 to 546
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| | | ||
+Sbjct  447  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTCGT  506
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            |||| ||||||||||||||||||||| |||||||||||||
+Sbjct  507  TAAGCCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  546
+
+
+
+
+>Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028163.1 Length: 1433
+Range 1: 464 to 563
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:93/100(93%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||||| ||||
+Sbjct  464  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGATTGT  523
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            ||||||||| ||||||||  |||||||||||||  |||||
+Sbjct  524  TAAGTCTCTTGGGAAATCCGCCGGCTTAACCGGCGGGCGT  563
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044422.1 Length: 1465
+Range 1: 463 to 562
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| | ||||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  522
+
+Query  61   TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  100
+            ||||||||| |||||||||  |||||||||||  ||||||
+Sbjct  523  TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+
+Query #12: Zotu10060 Query ID: lcl|Query_315909 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanoregula formicica strain SMSP 16S ribosomal RNA, complet... Methanoregul... NA              882104     163    163   100%  2e-40 96.00  1469       NR_102441.1      
+Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence     Methanoregul... NA              456442     163    163   100%  2e-40 96.00  1466       NR_074180.1      
+Methanoregula formicica strain SMSP 16S ribosomal RNA, partial... Methanoregul... NA              882104     163    163   100%  2e-40 96.00  1397       NR_112877.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     152    152   100%  4e-37 94.06  1465       NR_044422.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     152    152   100%  4e-37 94.06  1462       NR_074167.1      
+Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial...    Methanolinea... NA              263906     152    152   100%  4e-37 94.00  1433       NR_028163.1      
+Methanofollis ethanolicus strain HASU 16S ribosomal RNA, parti... Methanofolli... NA              488124     147    147   100%  2e-35 93.00  1396       NR_041669.1      
+Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal...   Methanofolli... NA              28892      147    147   100%  2e-35 93.07  1430       NR_028254.1      
+Methanofollis formosanus strain ML15 16S ribosomal RNA, partia... Methanofolli... NA              299308     141    141   100%  8e-34 92.00  1287       NR_042767.1      
+Methanogenium marinum strain AK-1 16S ribosomal RNA, partial...   Methanogeniu... NA              348610     141    141   100%  8e-34 92.00  1436       NR_028225.1      
+
+
+Alignments:
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, complete sequence
+Sequence ID: NR_102441.1 Length: 1469
+Range 1: 456 to 555
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  456  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  515
+
+Query  61   TAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            ||||||||||||||||||| |||||| |||||| ||||||
+Sbjct  516  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  555
+
+
+
+
+>Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074180.1 Length: 1466
+Range 1: 463 to 562
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGCTTGT  522
+
+Query  61   TAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            ||||||||||||||||||| ||||||||||||| ||||||
+Sbjct  523  TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  562
+
+
+
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112877.1 Length: 1397
+Range 1: 444 to 543
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  503
+
+Query  61   TAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            ||||||||||||||||||| |||||| |||||| ||||||
+Sbjct  504  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  543
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044422.1 Length: 1465
+Range 1: 463 to 562
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:95/101(94%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||| ||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGT-TG  521
+
+Query  60   TTAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            |||||||||| |||||||||| ||||||||||| |||||||
+Sbjct  522  TTAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074167.1 Length: 1462
+Range 1: 463 to 562
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:95/101(94%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||| ||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGT-TG  521
+
+Query  60   TTAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            |||||||||| |||||||||| ||||||||||| |||||||
+Sbjct  522  TTAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028163.1 Length: 1433
+Range 1: 464 to 563
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||  |||
+Sbjct  464  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGATTGT  523
+
+Query  61   TAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            ||||||||| |||||||| ||||||||||||||| |||||
+Sbjct  524  TAAGTCTCTTGGGAAATCCGCCGGCTTAACCGGCGGGCGT  563
+
+
+
+
+>Methanofollis ethanolicus strain HASU 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041669.1 Length: 1396
+Range 1: 443 to 542
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:93/100(93%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||   ||
+Sbjct  443  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  502
+
+Query  61   TAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            ||||||||||||||||||| |||||| |||||| ||||||
+Sbjct  503  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  542
+
+
+
+
+>Methanofollis liminatans DSM 4140 strain GKZPZ 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028254.1 Length: 1430
+Range 1: 447 to 546
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:94/101(93%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCT-GGTCTG  59
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| |||| |
+Sbjct  447  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTC-G  505
+
+Query  60   TTAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            ||||| |||||||||||||| |||||| |||||| ||||||
+Sbjct  506  TTAAGCCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  546
+
+
+
+
+>Methanofollis formosanus strain ML15 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042767.1 Length: 1287
+Range 1: 426 to 525
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||||   ||
+Sbjct  426  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  485
+
+Query  61   TAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            ||||||||| ||||||||| ||||||||||||  ||||||
+Sbjct  486  TAAGTCTCTTGGGAAATCTTCCGGCTTAACCGAAAGGCGT  525
+
+
+
+
+>Methanogenium marinum strain AK-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028225.1 Length: 1436
+Range 1: 464 to 563
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTCTGT  60
+            |||||||||||||||||||||||||||||| |||||||||||||| ||||||||| | | 
+Sbjct  464  TACCGGCGGCTCGAGTGGTGGCCACTATTATTGGGCTTAAAGCGTCCGTAGCTGGACCGA  523
+
+Query  61   TAAGTCTCTGGGGAAATCTGCCGGCTTAACCGGCAGGCGT  100
+            ||||||||| |||||||| ||||||||||||||| |||||
+Sbjct  524  TAAGTCTCTTGGGAAATCCGCCGGCTTAACCGGCGGGCGT  563
+
+
+
+
+
+Query #13: Zotu8952 Query ID: lcl|Query_315910 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanomassiliicoccus luminyensis B10 16S ribosomal RNA, parti... Methanomassi... NA              1175296    148    148   98%   5e-36 93.88  1434       NR_118098.1      
+
+
+Alignments:
+
+>Methanomassiliicoccus luminyensis B10 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118098.1 Length: 1434
+Range 1: 464 to 561
+
+Score:148 bits(80), Expect:5e-36, 
+Identities:92/98(94%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  1    TACCCGCGGCCCGAGTGGTGGTCGATATTATTGAGCCTAAAACGTTCGTAGCCGGTCTTG  60
+            |||||||| ||| |||||||||||||||||||||||||||||||| ||||||||||||| 
+Sbjct  464  TACCCGCGCCCCAAGTGGTGGTCGATATTATTGAGCCTAAAACGTCCGTAGCCGGTCTTC  523
+
+Query  61   TAAATCCTTGGGTAAATCGGCCAGCTTAACTGTCCGAA  98
+            |||||||||||||||||||| ||||| |||||||||||
+Sbjct  524  TAAATCCTTGGGTAAATCGGGCAGCTCAACTGTCCGAA  561
+
+
+
+
+
+Query #14: Zotu11426 Query ID: lcl|Query_315911 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanomassiliicoccus luminyensis B10 16S ribosomal RNA, parti... Methanomassi... NA              1175296    154    154   98%   1e-37 94.90  1434       NR_118098.1      
+
+
+Alignments:
+
+>Methanomassiliicoccus luminyensis B10 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118098.1 Length: 1434
+Range 1: 464 to 561
+
+Score:154 bits(83), Expect:1e-37, 
+Identities:93/98(95%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  1    TACCCGCGGCCCGAGTGGTGGTCGATATTATTGAGCCTAAAACGTCCGTAGCCGGTCTTG  60
+            |||||||| ||| |||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  464  TACCCGCGCCCCAAGTGGTGGTCGATATTATTGAGCCTAAAACGTCCGTAGCCGGTCTTC  523
+
+Query  61   TAAATCCTTGGGTAAATCGGCCAGCTTAACTGTCCGAA  98
+            |||||||||||||||||||| ||||| |||||||||||
+Sbjct  524  TAAATCCTTGGGTAAATCGGGCAGCTCAACTGTCCGAA  561
+
+
+
+
+
+Query #15: Zotu28885 Query ID: lcl|Query_315912 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanobrevibacter thaueri strain CW 16S ribosomal RNA, comple... Methanobrevi... NA              190975     185    185   100%  4e-47 100.00 1268       NR_044787.1      
+Methanobrevibacter millerae strain ZA-10 16S ribosomal RNA,...    Methanobrevi... NA              230361     174    174   100%  8e-44 98.00  1262       NR_042785.1      
+Methanobrevibacter smithii ATCC 35061 strain PS 16S ribosomal...  Methanobrevi... NA              420247     169    169   100%  4e-42 97.00  1475       NR_074235.1      
+Methanobrevibacter smithii ATCC 35061 strain PS 16S ribosomal...  Methanobrevi... NA              420247     169    169   100%  4e-42 97.00  1268       NR_118367.1      
+Methanobrevibacter smithii ATCC 35061 strain PS 16S ribosomal...  Methanobrevi... NA              420247     169    169   100%  4e-42 97.00  1343       NR_044786.1      
+Methanobrevibacter smithii ATCC 35061 strain PS 16S ribosomal...  Methanobrevi... NA              420247     169    169   100%  4e-42 97.00  1262       NR_115169.1      
+Methanobrevibacter gottschalkii strain HO 16S ribosomal RNA,...   Methanobrevi... NA              190974     169    169   100%  4e-42 97.00  1328       NR_044789.1      
+Methanobrevibacter woesei strain GS 16S ribosomal RNA, complet... Methanobrevi... NA              190976     163    163   100%  2e-40 96.00  1335       NR_044788.1      
+Methanobrevibacter oralis strain ZR 16S ribosomal RNA, partial... Methanobrevi... NA              66851      158    158   100%  8e-39 95.00  1475       NR_104878.1      
+Methanobrevibacter cuticularis strain RFM-1 16S ribosomal RNA,... Methanobrevi... NA              47311      158    158   100%  8e-39 95.00  1314       NR_044776.1      
+
+
+Alignments:
+
+>Methanobrevibacter thaueri strain CW 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044787.1 Length: 1268
+Range 1: 426 to 525
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  426  CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  485
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  486  TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  525
+
+
+
+
+>Methanobrevibacter millerae strain ZA-10 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042785.1 Length: 1262
+Range 1: 386 to 485
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            |||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||
+Sbjct  386  CACCGGCAGCTCTAGTGGTAGCAGTTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  445
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  446  TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  485
+
+
+
+
+>Methanobrevibacter smithii ATCC 35061 strain PS 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074235.1 Length: 1475
+Range 1: 470 to 569
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            |||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||
+Sbjct  470  CACCGGCAGCTCTAGTGGTAGCAGTTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  529
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  530  TAAGTCTCTGGTGAAATCCTGCAGCTTAACTGTGGGAATT  569
+
+
+
+
+>Methanobrevibacter smithii ATCC 35061 strain PS 16S ribosomal RNA, partial sequence
+Sequence ID: NR_118367.1 Length: 1268
+Range 1: 386 to 485
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            |||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||
+Sbjct  386  CACCGGCAGCTCTAGTGGTAGCAGTTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  445
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  446  TAAGTCTCTGGTGAAATCCTGCAGCTTAACTGTGGGAATT  485
+
+
+
+
+>Methanobrevibacter smithii ATCC 35061 strain PS 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044786.1 Length: 1343
+Range 1: 445 to 544
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            |||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||
+Sbjct  445  CACCGGCAGCTCTAGTGGTAGCAGTTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  504
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  505  TAAGTCTCTGGTGAAATCCTGCAGCTTAACTGTGGGAATT  544
+
+
+
+
+>Methanobrevibacter smithii ATCC 35061 strain PS 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115169.1 Length: 1262
+Range 1: 386 to 485
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            |||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||
+Sbjct  386  CACCGGCAGCTCTAGTGGTAGCAGTTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  445
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  446  TAAGTCTCTGGTGAAATCCTGCAGCTTAACTGTGGGAATT  485
+
+
+
+
+>Methanobrevibacter gottschalkii strain HO 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044789.1 Length: 1328
+Range 1: 450 to 549
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            |||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||
+Sbjct  450  CACCGGCAGCTCTAGTGGTAGCAGTTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  509
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  510  TAAGTCTCTGGTGAAATCCTGTAGCTTAACTATGGGAATT  549
+
+
+
+
+>Methanobrevibacter woesei strain GS 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044788.1 Length: 1335
+Range 1: 452 to 551
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            ||||| |||||||||||||| || ||||||||||||||||||||||||||||||||||| 
+Sbjct  452  CACCGTCAGCTCTAGTGGTAGCAGTTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAT  511
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  512  TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  551
+
+
+
+
+>Methanobrevibacter oralis strain ZR 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104878.1 Length: 1475
+Range 1: 468 to 567
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:95/100(95%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            ||||||||| |||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  468  CACCGGCAGTTCTAGTGGTAGCAGTTATTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  527
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  528  TAAGTCTCTGGTGAAATCCTGTAGCTTAACTATGGGAATT  567
+
+
+
+
+>Methanobrevibacter cuticularis strain RFM-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_044776.1 Length: 1314
+Range 1: 452 to 551
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:95/100(95%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCTAGTGGTAACAATTTTTATTGGGCCTAAAGCGTCCGTAGCCGGTTTAA  60
+            |||||||||||||||||||| | |||||||||||||||||||||| ||||||||||||||
+Sbjct  452  CACCGGCAGCTCTAGTGGTAGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGTTTAA  511
+
+Query  61   TAAGTCTCTGGTGAAATCCTGTAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||| | ||||||
+Sbjct  512  TAAGTCTCTGGTGAAATCCTGTAGCTTAACTATTGGAATT  551
+
+
+
+
+
+Query #16: Zotu9018 Query ID: lcl|Query_315913 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanobacterium espanolae strain NBRC 105228 16S ribosomal RN... Methanobacte... NA              83565      185    185   100%  4e-47 100.00 1405       NR_104983.1      
+Methanobacterium arcticum strain M2 16S ribosomal RNA, partial... Methanobacte... NA              386456     185    185   100%  4e-47 100.00 1434       NR_115811.1      
+Methanobacterium veterum strain MK4 16S ribosomal RNA, partial... Methanobacte... NA              408577     185    185   100%  4e-47 100.00 1347       NR_115935.1      
+Methanobacterium bryantii strain MOH 16S ribosomal RNA, partia... Methanobacte... NA              2161       185    185   100%  4e-47 100.00 1260       NR_042781.1      
+Methanobacterium uliginosum strain P2St 16S ribosomal RNA,...     Methanobacte... NA              83983      185    185   100%  4e-47 100.00 1416       NR_104694.1      
+Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA,...  Methanobacte... NA              710191     180    180   100%  2e-45 99.00  1412       NR_113045.1      
+Methanobacterium subterraneum strain A8p 16S ribosomal RNA,...    Methanobacte... NA              59277      180    180   100%  2e-45 99.00  1436       NR_028247.1      
+Methanobacterium ivanovii strain OCM 140 16S ribosomal RNA,...    Methanobacte... NA              2163       178    178   100%  6e-45 98.00  1417       NR_041716.1      
+Methanobacterium movilense strain MC-20 16S ribosomal RNA,...     Methanobacte... NA              1036678    174    174   100%  8e-44 98.00  1347       NR_133779.1      
+Methanobacterium kanagiense strain 169 16S ribosomal RNA,...      Methanobacte... NA              483896     174    174   100%  8e-44 98.00  1465       NR_112749.1      
+
+
+Alignments:
+
+>Methanobacterium espanolae strain NBRC 105228 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104983.1 Length: 1405
+Range 1: 448 to 547
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  448  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  507
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  508  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  547
+
+
+
+
+>Methanobacterium arcticum strain M2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115811.1 Length: 1434
+Range 1: 489 to 588
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  489  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  548
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  549  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  588
+
+
+
+
+>Methanobacterium veterum strain MK4 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115935.1 Length: 1347
+Range 1: 442 to 541
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  442  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  501
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  502  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  541
+
+
+
+
+>Methanobacterium bryantii strain MOH 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042781.1 Length: 1260
+Range 1: 386 to 485
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  386  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  445
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  446  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  485
+
+
+
+
+>Methanobacterium uliginosum strain P2St 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104694.1 Length: 1416
+Range 1: 459 to 558
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  459  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  518
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  519  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  558
+
+
+
+
+>Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113045.1 Length: 1412
+Range 1: 456 to 555
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  456  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  515
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  516  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  555
+
+
+
+
+>Methanobacterium subterraneum strain A8p 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028247.1 Length: 1436
+Range 1: 439 to 538
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  439  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  498
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  499  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  538
+
+
+
+
+>Methanobacterium ivanovii strain OCM 140 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041716.1 Length: 1417
+Range 1: 472 to 571
+
+Score:178 bits(96), Expect:6e-45, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||
+Sbjct  472  CACCGGCAGCTCAAGTGGTGGCNATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  531
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            |||||||||||||||||||||||||||||||||||| |||
+Sbjct  532  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGNATT  571
+
+
+
+
+>Methanobacterium movilense strain MC-20 16S ribosomal RNA, partial sequence
+Sequence ID: NR_133779.1 Length: 1347
+Range 1: 425 to 524
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            |||||||||||| ||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  425  CACCGGCAGCTCGAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  484
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  485  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  524
+
+
+
+
+>Methanobacterium kanagiense strain 169 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112749.1 Length: 1465
+Range 1: 473 to 572
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  473  CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  532
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  533  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  572
+
+
+
+
+
+Query #17: Zotu245 Query ID: lcl|Query_315914 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanobacterium lacus strain 17A1 16S ribosomal RNA, partial...  Methanobacte... NA              877455     180    180   100%  2e-45 99.00  1351       NR_117917.1      
+Methanobacterium congolense strain C 16S ribosomal RNA, partia... Methanobacte... NA              118062     163    163   97%   2e-40 96.91  1453       NR_028175.1      
+Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA,...  Methanobacte... NA              710191     163    163   97%   2e-40 96.91  1412       NR_113045.1      
+Methanobacterium petrolearium strain Mic5c12 16S ribosomal RNA... Methanobacte... NA              710190     163    163   97%   2e-40 96.91  1392       NR_113044.1      
+Methanobacterium subterraneum strain A8p 16S ribosomal RNA,...    Methanobacte... NA              59277      163    163   97%   2e-40 96.91  1436       NR_028247.1      
+Methanobacterium espanolae strain NBRC 105228 16S ribosomal RN... Methanobacte... NA              83565      158    158   97%   8e-39 95.88  1405       NR_104983.1      
+Methanobacterium arcticum strain M2 16S ribosomal RNA, partial... Methanobacte... NA              386456     158    158   97%   8e-39 95.88  1434       NR_115811.1      
+Methanobacterium veterum strain MK4 16S ribosomal RNA, partial... Methanobacte... NA              408577     158    158   97%   8e-39 95.88  1347       NR_115935.1      
+Methanobacterium kanagiense strain 169 16S ribosomal RNA,...      Methanobacte... NA              483896     158    158   97%   8e-39 95.88  1465       NR_112749.1      
+Methanobacterium bryantii strain MOH 16S ribosomal RNA, partia... Methanobacte... NA              2161       158    158   97%   8e-39 95.88  1260       NR_042781.1      
+
+
+Alignments:
+
+>Methanobacterium lacus strain 17A1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_117917.1 Length: 1351
+Range 1: 474 to 573
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||
+Sbjct  474  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  533
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGACTT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  534  TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGACTT  573
+
+
+
+
+>Methanobacterium congolense strain C 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028175.1 Length: 1453
+Range 1: 447 to 543
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:94/97(97%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||
+Sbjct  447  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  506
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  97
+            ||||||| |||||||||||||||||||||||||||||
+Sbjct  507  TAAGTCTTTGGTGAAATCCCGCAGCTTAACTGTGGGA  543
+
+
+
+
+>Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113045.1 Length: 1412
+Range 1: 456 to 552
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:94/97(97%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||
+Sbjct  456  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  515
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  97
+            |||||||||||||||||||| ||||||||||||||||
+Sbjct  516  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGA  552
+
+
+
+
+>Methanobacterium petrolearium strain Mic5c12 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113044.1 Length: 1392
+Range 1: 439 to 535
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:94/97(97%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            ||||||||||||||||||||||| || |||||||||||||||||||||||||||| ||||
+Sbjct  439  CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  498
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  97
+            |||||||||||||||||||||||||||||||||||||
+Sbjct  499  TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  535
+
+
+
+
+>Methanobacterium subterraneum strain A8p 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028247.1 Length: 1436
+Range 1: 439 to 535
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:94/97(97%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||
+Sbjct  439  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  498
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  97
+            |||||||||||||||||||| ||||||||||||||||
+Sbjct  499  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGA  535
+
+
+
+
+>Methanobacterium espanolae strain NBRC 105228 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104983.1 Length: 1405
+Range 1: 448 to 544
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:93/97(96%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||
+Sbjct  448  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  507
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  97
+            ||||||||||||||||||||  |||||||||||||||
+Sbjct  508  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGA  544
+
+
+
+
+>Methanobacterium arcticum strain M2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115811.1 Length: 1434
+Range 1: 489 to 585
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:93/97(96%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||
+Sbjct  489  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  548
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  97
+            ||||||||||||||||||||  |||||||||||||||
+Sbjct  549  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGA  585
+
+
+
+
+>Methanobacterium veterum strain MK4 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115935.1 Length: 1347
+Range 1: 442 to 538
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:93/97(96%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||
+Sbjct  442  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  501
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  97
+            ||||||||||||||||||||  |||||||||||||||
+Sbjct  502  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGA  538
+
+
+
+
+>Methanobacterium kanagiense strain 169 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112749.1 Length: 1465
+Range 1: 473 to 569
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:93/97(96%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            ||||||||||||||||||||||| || |||||||||||||||||||||||||||| ||||
+Sbjct  473  CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  532
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  97
+            |||||||||||||||||||| ||||||||||||||||
+Sbjct  533  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGA  569
+
+
+
+
+>Methanobacterium bryantii strain MOH 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042781.1 Length: 1260
+Range 1: 386 to 482
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:93/97(96%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGTTTGA  60
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||
+Sbjct  386  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  445
+
+Query  61   TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGA  97
+            ||||||||||||||||||||  |||||||||||||||
+Sbjct  446  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGA  482
+
+
+
+
+
+Query #18: Zotu19379 Query ID: lcl|Query_315915 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA,...  Methanobacte... NA              710191     185    185   100%  4e-47 100.00 1412       NR_113045.1      
+Methanobacterium subterraneum strain A8p 16S ribosomal RNA,...    Methanobacte... NA              59277      185    185   100%  4e-47 100.00 1436       NR_028247.1      
+Methanobacterium espanolae strain NBRC 105228 16S ribosomal RN... Methanobacte... NA              83565      180    180   100%  2e-45 99.00  1405       NR_104983.1      
+Methanobacterium arcticum strain M2 16S ribosomal RNA, partial... Methanobacte... NA              386456     180    180   100%  2e-45 99.00  1434       NR_115811.1      
+Methanobacterium veterum strain MK4 16S ribosomal RNA, partial... Methanobacte... NA              408577     180    180   100%  2e-45 99.00  1347       NR_115935.1      
+Methanobacterium kanagiense strain 169 16S ribosomal RNA,...      Methanobacte... NA              483896     180    180   100%  2e-45 99.00  1465       NR_112749.1      
+Methanobacterium bryantii strain MOH 16S ribosomal RNA, partia... Methanobacte... NA              2161       180    180   100%  2e-45 99.00  1260       NR_042781.1      
+Methanobacterium uliginosum strain P2St 16S ribosomal RNA,...     Methanobacte... NA              83983      180    180   100%  2e-45 99.00  1416       NR_104694.1      
+Methanobacterium paludis strain SWAN1 16S ribosomal RNA,...       Methanobacte... NA              868131     174    174   100%  8e-44 98.00  1486       NR_133895.1      
+Methanobacterium congolense strain C 16S ribosomal RNA, partia... Methanobacte... NA              118062     174    174   100%  8e-44 98.00  1453       NR_028175.1      
+
+
+Alignments:
+
+>Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113045.1 Length: 1412
+Range 1: 456 to 555
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  456  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  515
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  516  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  555
+
+
+
+
+>Methanobacterium subterraneum strain A8p 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028247.1 Length: 1436
+Range 1: 439 to 538
+
+Score:185 bits(100), Expect:4e-47, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  439  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  498
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  499  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  538
+
+
+
+
+>Methanobacterium espanolae strain NBRC 105228 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104983.1 Length: 1405
+Range 1: 448 to 547
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  448  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  507
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  508  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  547
+
+
+
+
+>Methanobacterium arcticum strain M2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115811.1 Length: 1434
+Range 1: 489 to 588
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  489  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  548
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  549  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  588
+
+
+
+
+>Methanobacterium veterum strain MK4 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115935.1 Length: 1347
+Range 1: 442 to 541
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  442  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  501
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  502  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  541
+
+
+
+
+>Methanobacterium kanagiense strain 169 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112749.1 Length: 1465
+Range 1: 473 to 572
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  473  CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  532
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  533  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  572
+
+
+
+
+>Methanobacterium bryantii strain MOH 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042781.1 Length: 1260
+Range 1: 386 to 485
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  386  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  445
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  446  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  485
+
+
+
+
+>Methanobacterium uliginosum strain P2St 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104694.1 Length: 1416
+Range 1: 459 to 558
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  459  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  518
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  519  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  558
+
+
+
+
+>Methanobacterium paludis strain SWAN1 16S ribosomal RNA, complete sequence
+Sequence ID: NR_133895.1 Length: 1486
+Range 1: 480 to 579
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  480  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  539
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||| ||||||||||||||||||||
+Sbjct  540  TAAGTCTCTGGTGAAATCCTACAGCTTAACTGTGGGAATT  579
+
+
+
+
+>Methanobacterium congolense strain C 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028175.1 Length: 1453
+Range 1: 447 to 546
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  447  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  506
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||| |||||||||||| |||||||||||||||||||
+Sbjct  507  TAAGTCTTTGGTGAAATCCCGCAGCTTAACTGTGGGAATT  546
+
+
+
+
+
+Query #19: Zotu17995 Query ID: lcl|Query_315916 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanobacterium espanolae strain NBRC 105228 16S ribosomal RN... Methanobacte... NA              83565      180    180   100%  2e-45 99.00  1405       NR_104983.1      
+Methanobacterium arcticum strain M2 16S ribosomal RNA, partial... Methanobacte... NA              386456     180    180   100%  2e-45 99.00  1434       NR_115811.1      
+Methanobacterium veterum strain MK4 16S ribosomal RNA, partial... Methanobacte... NA              408577     180    180   100%  2e-45 99.00  1347       NR_115935.1      
+Methanobacterium bryantii strain MOH 16S ribosomal RNA, partia... Methanobacte... NA              2161       180    180   100%  2e-45 99.00  1260       NR_042781.1      
+Methanobacterium uliginosum strain P2St 16S ribosomal RNA,...     Methanobacte... NA              83983      180    180   100%  2e-45 99.00  1416       NR_104694.1      
+Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA,...  Methanobacte... NA              710191     174    174   100%  8e-44 98.00  1412       NR_113045.1      
+Methanobacterium subterraneum strain A8p 16S ribosomal RNA,...    Methanobacte... NA              59277      174    174   100%  8e-44 98.00  1436       NR_028247.1      
+Methanobacterium ivanovii strain OCM 140 16S ribosomal RNA,...    Methanobacte... NA              2163       172    172   100%  3e-43 97.00  1417       NR_041716.1      
+Methanobacterium movilense strain MC-20 16S ribosomal RNA,...     Methanobacte... NA              1036678    169    169   100%  4e-42 97.00  1347       NR_133779.1      
+Methanobacterium kanagiense strain 169 16S ribosomal RNA,...      Methanobacte... NA              483896     169    169   100%  4e-42 97.00  1465       NR_112749.1      
+
+
+Alignments:
+
+>Methanobacterium espanolae strain NBRC 105228 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104983.1 Length: 1405
+Range 1: 448 to 547
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  448  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  507
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  508  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  547
+
+
+
+
+>Methanobacterium arcticum strain M2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115811.1 Length: 1434
+Range 1: 489 to 588
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  489  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  548
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  549  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  588
+
+
+
+
+>Methanobacterium veterum strain MK4 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115935.1 Length: 1347
+Range 1: 442 to 541
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  442  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  501
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  502  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  541
+
+
+
+
+>Methanobacterium bryantii strain MOH 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042781.1 Length: 1260
+Range 1: 386 to 485
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  386  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  445
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  446  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  485
+
+
+
+
+>Methanobacterium uliginosum strain P2St 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104694.1 Length: 1416
+Range 1: 459 to 558
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  459  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  518
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  519  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  558
+
+
+
+
+>Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113045.1 Length: 1412
+Range 1: 456 to 555
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  456  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  515
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  516  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  555
+
+
+
+
+>Methanobacterium subterraneum strain A8p 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028247.1 Length: 1436
+Range 1: 439 to 538
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  439  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  498
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  499  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  538
+
+
+
+
+>Methanobacterium ivanovii strain OCM 140 16S ribosomal RNA, partial sequence
+Sequence ID: NR_041716.1 Length: 1417
+Range 1: 472 to 571
+
+Score:172 bits(93), Expect:3e-43, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| |||||||||||||| |||||||||||||||||||||||||||||||||||||
+Sbjct  472  CACCGGCAGCTCAAGTGGTGGCNATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  531
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            |||||||||||||||||||||||||||||||||||| |||
+Sbjct  532  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGNATT  571
+
+
+
+
+>Methanobacterium movilense strain MC-20 16S ribosomal RNA, partial sequence
+Sequence ID: NR_133779.1 Length: 1347
+Range 1: 425 to 524
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| |||| ||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  425  CACCGGCAGCTCGAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  484
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  485  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  524
+
+
+
+
+>Methanobacterium kanagiense strain 169 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112749.1 Length: 1465
+Range 1: 473 to 572
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCCGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  60
+            ||||||| ||||||||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  473  CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  532
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  533  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  572
+
+
+
+
+
+Query #20: Zotu12597 Query ID: lcl|Query_315917 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanobacterium oryzae strain FPi 16S ribosomal RNA, partial...  Methanobacte... NA              69540      180    180   100%  2e-45 99.00  1446       NR_028171.1      
+Methanobacterium espanolae strain NBRC 105228 16S ribosomal RN... Methanobacte... NA              83565      169    169   100%  4e-42 97.00  1405       NR_104983.1      
+Methanobacterium movilense strain MC-20 16S ribosomal RNA,...     Methanobacte... NA              1036678    169    169   100%  4e-42 97.00  1347       NR_133779.1      
+Methanobacterium arcticum strain M2 16S ribosomal RNA, partial... Methanobacte... NA              386456     169    169   100%  4e-42 97.00  1434       NR_115811.1      
+Methanobacterium veterum strain MK4 16S ribosomal RNA, partial... Methanobacte... NA              408577     169    169   100%  4e-42 97.00  1347       NR_115935.1      
+Methanobacterium bryantii strain MOH 16S ribosomal RNA, partia... Methanobacte... NA              2161       169    169   100%  4e-42 97.00  1260       NR_042781.1      
+Methanobacterium uliginosum strain P2St 16S ribosomal RNA,...     Methanobacte... NA              83983      169    169   100%  4e-42 97.00  1416       NR_104694.1      
+Methanobacterium paludis strain SWAN1 16S ribosomal RNA,...       Methanobacte... NA              868131     163    163   100%  2e-40 96.00  1486       NR_133895.1      
+Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA,...  Methanobacte... NA              710191     163    163   100%  2e-40 96.00  1412       NR_113045.1      
+Methanobacterium subterraneum strain A8p 16S ribosomal RNA,...    Methanobacte... NA              59277      163    163   100%  2e-40 96.00  1436       NR_028247.1      
+
+
+Alignments:
+
+>Methanobacterium oryzae strain FPi 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028171.1 Length: 1446
+Range 1: 468 to 567
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  468  CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  527
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  528  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  567
+
+
+
+
+>Methanobacterium espanolae strain NBRC 105228 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104983.1 Length: 1405
+Range 1: 448 to 547
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  448  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  507
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  508  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  547
+
+
+
+
+>Methanobacterium movilense strain MC-20 16S ribosomal RNA, partial sequence
+Sequence ID: NR_133779.1 Length: 1347
+Range 1: 425 to 524
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||| ||||||||||||| |||||||||||||||||||||||||||||||||
+Sbjct  425  CACCGGCAGCTCGAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  484
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  485  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  524
+
+
+
+
+>Methanobacterium arcticum strain M2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115811.1 Length: 1434
+Range 1: 489 to 588
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  489  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  548
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  549  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  588
+
+
+
+
+>Methanobacterium veterum strain MK4 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115935.1 Length: 1347
+Range 1: 442 to 541
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  442  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  501
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  502  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  541
+
+
+
+
+>Methanobacterium bryantii strain MOH 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042781.1 Length: 1260
+Range 1: 386 to 485
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  386  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  445
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  446  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  485
+
+
+
+
+>Methanobacterium uliginosum strain P2St 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104694.1 Length: 1416
+Range 1: 459 to 558
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  459  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  518
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||||||||||||||| ||||||||
+Sbjct  519  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  558
+
+
+
+
+>Methanobacterium paludis strain SWAN1 16S ribosomal RNA, complete sequence
+Sequence ID: NR_133895.1 Length: 1486
+Range 1: 480 to 579
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||
+Sbjct  480  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  539
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||| | ||||||||| ||||||||
+Sbjct  540  TAAGTCTCTGGTGAAATCCTACAGCTTAACTGTGGGAATT  579
+
+
+
+
+>Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113045.1 Length: 1412
+Range 1: 456 to 555
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  456  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  515
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||||| ||||||||| ||||||||
+Sbjct  516  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  555
+
+
+
+
+>Methanobacterium subterraneum strain A8p 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028247.1 Length: 1436
+Range 1: 439 to 538
+
+Score:163 bits(88), Expect:2e-40, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCATTATTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||
+Sbjct  439  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  498
+
+Query  61   TAAGTCTCTGGTGAAATCCCATAGCTTAACTATGGGAATT  100
+            ||||||||||||||||||||| ||||||||| ||||||||
+Sbjct  499  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  538
+
+
+
+
+
+Query #21: Zotu10264 Query ID: lcl|Query_315918 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanobacterium kanagiense strain 169 16S ribosomal RNA,...      Methanobacte... NA              483896     180    180   100%  2e-45 99.00  1465       NR_112749.1      
+Methanobacterium paludis strain SWAN1 16S ribosomal RNA,...       Methanobacte... NA              868131     174    174   100%  8e-44 98.00  1486       NR_133895.1      
+Methanobacterium aarhusense strain H2-LR 16S ribosomal RNA,...    Methanobacte... NA              256826     174    174   100%  8e-44 98.00  1333       NR_042895.1      
+Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA,...  Methanobacte... NA              710191     174    174   100%  8e-44 98.00  1412       NR_113045.1      
+Methanobacterium petrolearium strain Mic5c12 16S ribosomal RNA... Methanobacte... NA              710190     174    174   100%  8e-44 98.00  1392       NR_113044.1      
+Methanobacterium subterraneum strain A8p 16S ribosomal RNA,...    Methanobacte... NA              59277      174    174   100%  8e-44 98.00  1436       NR_028247.1      
+Methanobacterium espanolae strain NBRC 105228 16S ribosomal RN... Methanobacte... NA              83565      169    169   100%  4e-42 97.00  1405       NR_104983.1      
+Methanobacterium aggregans strain E09F.3 16S ribosomal RNA,...    Methanobacte... NA              1615586    169    169   100%  4e-42 97.00  1411       NR_135896.1      
+Methanobacterium movilense strain MC-20 16S ribosomal RNA,...     Methanobacte... NA              1036678    169    169   100%  4e-42 97.00  1347       NR_133779.1      
+Methanobacterium arcticum strain M2 16S ribosomal RNA, partial... Methanobacte... NA              386456     169    169   100%  4e-42 97.00  1434       NR_115811.1      
+
+
+Alignments:
+
+>Methanobacterium kanagiense strain 169 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112749.1 Length: 1465
+Range 1: 473 to 572
+
+Score:180 bits(97), Expect:2e-45, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  473  CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  532
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  533  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  572
+
+
+
+
+>Methanobacterium paludis strain SWAN1 16S ribosomal RNA, complete sequence
+Sequence ID: NR_133895.1 Length: 1486
+Range 1: 480 to 579
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  480  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  539
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||| ||||||||||||||||||||
+Sbjct  540  TAAGTCTCTGGTGAAATCCTACAGCTTAACTGTGGGAATT  579
+
+
+
+
+>Methanobacterium aarhusense strain H2-LR 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042895.1 Length: 1333
+Range 1: 381 to 480
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  381  CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  440
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            |||||||||||||||||||  |||||||||||||||||||
+Sbjct  441  TAAGTCTCTGGTGAAATCCTGCAGCTTAACTGTGGGAATT  480
+
+
+
+
+>Methanobacterium ferruginis strain Mic6c05 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113045.1 Length: 1412
+Range 1: 456 to 555
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            ||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||
+Sbjct  456  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  515
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  516  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  555
+
+
+
+
+>Methanobacterium petrolearium strain Mic5c12 16S ribosomal RNA, partial sequence
+Sequence ID: NR_113044.1 Length: 1392
+Range 1: 439 to 538
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  439  CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  498
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            |||||||||||||||||||| |||||||||||||||||||
+Sbjct  499  TAAGTCTCTGGTGAAATCCCGCAGCTTAACTGTGGGAATT  538
+
+
+
+
+>Methanobacterium subterraneum strain A8p 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028247.1 Length: 1436
+Range 1: 439 to 538
+
+Score:174 bits(94), Expect:8e-44, 
+Identities:98/100(98%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            ||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||
+Sbjct  439  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  498
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  499  TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  538
+
+
+
+
+>Methanobacterium espanolae strain NBRC 105228 16S ribosomal RNA, partial sequence
+Sequence ID: NR_104983.1 Length: 1405
+Range 1: 448 to 547
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            ||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||
+Sbjct  448  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  507
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  508  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  547
+
+
+
+
+>Methanobacterium aggregans strain E09F.3 16S ribosomal RNA, partial sequence
+Sequence ID: NR_135896.1 Length: 1411
+Range 1: 452 to 551
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  452  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  511
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||| ||||||||||| ||||||||||||||||||||
+Sbjct  512  TAAGTCTTTGGTGAAATCCTACAGCTTAACTGTGGGAATT  551
+
+
+
+
+>Methanobacterium movilense strain MC-20 16S ribosomal RNA, partial sequence
+Sequence ID: NR_133779.1 Length: 1347
+Range 1: 425 to 524
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            |||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  425  CACCGGCAGCTCGAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  484
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  485  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  524
+
+
+
+
+>Methanobacterium arcticum strain M2 16S ribosomal RNA, partial sequence
+Sequence ID: NR_115811.1 Length: 1434
+Range 1: 489 to 588
+
+Score:169 bits(91), Expect:4e-42, 
+Identities:97/100(97%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    CACCGGCAGCTCAAGTGGTGGCCGTTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCCTGA  60
+            ||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||
+Sbjct  489  CACCGGCAGCTCAAGTGGTGGCCATTTTTATTGGGCCTAAAGCGTTCGTAGCCGGCTTGA  548
+
+Query  61   TAAGTCTCTGGTGAAATCCCACAGCTTAACTGTGGGAATT  100
+            ||||||||||||||||||||| ||||||||||||||||||
+Sbjct  549  TAAGTCTCTGGTGAAATCCCATAGCTTAACTGTGGGAATT  588
+
+
+
+
+
+Query #22: Zotu7701 Query ID: lcl|Query_315919 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Methanofollis formosanus strain ML15 16S ribosomal RNA, partia... Methanofolli... NA              299308     158    158   100%  8e-39 95.00  1287       NR_042767.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     152    152   100%  4e-37 94.00  1465       NR_044422.1      
+Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence     Methanoregul... NA              456442     152    152   100%  4e-37 94.00  1466       NR_074180.1      
+Methanosphaerula palustris strain E1-9c 16S ribosomal RNA,...     Methanosphae... NA              475088     152    152   100%  4e-37 94.00  1462       NR_074167.1      
+Methanolinea mesophila strain TNR 16S ribosomal RNA, partial...   Methanolinea... NA              547055     152    152   100%  4e-37 94.00  1397       NR_112799.1      
+Methanoregula formicica strain SMSP 16S ribosomal RNA, complet... Methanoregul... NA              882104     147    147   100%  2e-35 93.00  1469       NR_102441.1      
+Methanoregula formicica strain SMSP 16S ribosomal RNA, partial... Methanoregul... NA              882104     147    147   100%  2e-35 93.00  1397       NR_112877.1      
+Methanoculleus palmolei strain DSM 4273 16S ribosomal RNA,...     Methanoculle... NA              72612      147    147   100%  2e-35 93.00  1431       NR_028253.1      
+Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial...    Methanolinea... NA              263906     143    143   92%   2e-34 94.57  1433       NR_028163.1      
+Methanoculleus hydrogenitrophicus strain HC 16S ribosomal RNA,... Methanoculle... NA              648796     141    141   100%  8e-34 92.00  1434       NR_116881.1      
+
+
+Alignments:
+
+>Methanofollis formosanus strain ML15 16S ribosomal RNA, partial sequence
+Sequence ID: NR_042767.1 Length: 1287
+Range 1: 426 to 525
+
+Score:158 bits(85), Expect:8e-39, 
+Identities:95/100(95%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| ||
+Sbjct  426  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTAGT  485
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCGATAGGCGT  100
+            ||||| ||||||||||||| ||||||||||||| ||||||
+Sbjct  486  TAAGTCTCTTGGGAAATCTTCCGGCTTAACCGAAAGGCGT  525
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_044422.1 Length: 1465
+Range 1: 463 to 562
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  522
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCGATAGGCGT  100
+            ||||| |||||||||||||  |||||||||||| ||||||
+Sbjct  523  TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanoregula boonei 6A8 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074180.1 Length: 1466
+Range 1: 463 to 562
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGCTTGT  522
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCGATAGGCGT  100
+            ||||| ||| ||||||||| ||||||||||||  ||||||
+Sbjct  523  TAAGTCTCTGGGGAAATCTTCCGGCTTAACCGGAAGGCGT  562
+
+
+
+
+>Methanosphaerula palustris strain E1-9c 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074167.1 Length: 1462
+Range 1: 463 to 562
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||
+Sbjct  463  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTTGGTTGT  522
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCGATAGGCGT  100
+            ||||| |||||||||||||  |||||||||||| ||||||
+Sbjct  523  TAAGTCTCTTGGGAAATCTGTCGGCTTAACCGACAGGCGT  562
+
+
+
+
+>Methanolinea mesophila strain TNR 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112799.1 Length: 1397
+Range 1: 444 to 543
+
+Score:152 bits(82), Expect:4e-37, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGGTTGT  503
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCGATAGGCGT  100
+            ||||| || ||||||||| ||||||| ||||||| |||||
+Sbjct  504  TAAGTCTCCTGGGAAATCCACCGGCTCAACCGATGGGCGT  543
+
+
+
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, complete sequence
+Sequence ID: NR_102441.1 Length: 1469
+Range 1: 456 to 555
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:93/100(93%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  456  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  515
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCGATAGGCGT  100
+            ||||| ||| ||||||||| |||||| |||||  ||||||
+Sbjct  516  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  555
+
+
+
+
+>Methanoregula formicica strain SMSP 16S ribosomal RNA, partial sequence
+Sequence ID: NR_112877.1 Length: 1397
+Range 1: 444 to 543
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:93/100(93%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  444  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGTTTGT  503
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCGATAGGCGT  100
+            ||||| ||| ||||||||| |||||| |||||  ||||||
+Sbjct  504  TAAGTCTCTGGGGAAATCTTCCGGCTCAACCGGAAGGCGT  543
+
+
+
+
+>Methanoculleus palmolei strain DSM 4273 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028253.1 Length: 1431
+Range 1: 447 to 546
+
+Score:147 bits(79), Expect:2e-35, 
+Identities:93/100(93%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            |||||||||||||||||||||||||| ||| |||||||||||||||||||||||||||||
+Sbjct  447  TACCGGCGGCTCGAGTGGTGGCCACTTTTATTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  506
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCGATAGGCGT  100
+            ||||| |||||||||||||  |||||||||||  ||||||
+Sbjct  507  TAAGTCTCTTGGGAAATCTGGCGGCTTAACCGTCAGGCGT  546
+
+
+
+
+>Methanolinea tarda strain NOBI-1 16S ribosomal RNA, partial sequence
+Sequence ID: NR_028163.1 Length: 1433
+Range 1: 464 to 555
+
+Score:143 bits(77), Expect:2e-34, 
+Identities:87/92(95%),  Gaps:0/92(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||| ||||||||| ||||
+Sbjct  464  TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTCCGTAGCTGGATTGT  523
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCG  92
+            ||||| ||||||||||||  ||||||||||||
+Sbjct  524  TAAGTCTCTTGGGAAATCCGCCGGCTTAACCG  555
+
+
+
+
+>Methanoculleus hydrogenitrophicus strain HC 16S ribosomal RNA, partial sequence
+Sequence ID: NR_116881.1 Length: 1434
+Range 1: 462 to 561
+
+Score:141 bits(76), Expect:8e-34, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1    TACCGGCGGCTCGAGTGGTGGCCACTATTACTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  60
+            |||||||||||||||||||||||||| ||| |||||||||||||||||||||||||||||
+Sbjct  462  TACCGGCGGCTCGAGTGGTGGCCACTTTTATTGGGCTTAAAGCGTTCGTAGCTGGGTTGT  521
+
+Query  61   TAAGTTTCTTGGGAAATCTACCGGCTTAACCGATAGGCGT  100
+            ||||| ||||||||||||   ||||||||||| | |||||
+Sbjct  522  TAAGTCTCTTGGGAAATCCGGCGGCTTAACCGTTGGGCGT  561
+
+
+
+
+
+
+
+		
+
+
